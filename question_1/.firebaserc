@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lab5-flutter-baad1"
+  },
+  "targets": {
+    "lab5-flutter-baad1": {
+      "hosting": {
+        "q2": [
+          "q2-fdde"
+        ]
+      }
+    }
+  }
+}
